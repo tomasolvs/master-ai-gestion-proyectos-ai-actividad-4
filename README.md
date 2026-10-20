@@ -7,9 +7,7 @@
 * Fecha:  19/10/2026
 * Actividad 4: Prototipo de clasificación de reseñas por medio de NLP
 
-[Notebook directo en Google Colab](https://colab.research.google.com/drive/1D1vzgSZ46zYA8UzjA8YL3s9nXzWM7cqa?usp=sharing)
-
-[Mismo notebook ligado a este repo](TO_Modulo_2_Actividad_4_Gestión_de_proyectos_de_inteligencia_artificial_191026.ipynb)
+[Notebook en Google Colab vinculado a este repo](TO_Modulo_2_Actividad_4_Gestión_de_proyectos_de_inteligencia_artificial_191026.ipynb)
 
 ## Caso de uso
 Prototipo para clasificar reseñas de restaurantes en español como positivas (POS), neutrales (NEU) o negativas (NEG), comparando tres modelos preentrenados de Hugging Face.
