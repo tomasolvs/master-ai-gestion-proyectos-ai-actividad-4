@@ -1,0 +1,91 @@
+﻿id,texto,etiqueta,etiqueta_nombre
+1,La comida estuvo deliciosa y el mesero fue muy amable.,POS,positivo
+2,"Excelente experiencia, volveremos sin duda.",POS,positivo
+3,El café estaba perfecto y el pan recién hecho.,POS,positivo
+4,Todo llegó caliente y las porciones fueron generosas.,POS,positivo
+5,La atención fue rápida y el lugar estaba impecable.,POS,positivo
+6,"Me encantó la pasta, tenía mucho sabor.",POS,positivo
+7,Muy buena relación calidad precio.,POS,positivo
+8,El personal resolvió nuestro problema de inmediato.,POS,positivo
+9,"Los postres son espectaculares, especialmente el pastel de chocolate.",POS,positivo
+10,La terraza es agradable y la música estaba a buen volumen.,POS,positivo
+11,Pedí una hamburguesa y estaba jugosa y bien preparada.,POS,positivo
+12,El menú tiene opciones variadas y bien explicadas.,POS,positivo
+13,La reservación se respetó y nos atendieron puntualmente.,POS,positivo
+14,El restaurante estaba limpio y los baños también.,POS,positivo
+15,La sopa del día estaba riquísima.,POS,positivo
+16,Me sorprendió la calidad de los ingredientes.,POS,positivo
+17,El servicio fue atento durante toda la comida.,POS,positivo
+18,La comida vegetariana estaba muy bien sazonada.,POS,positivo
+19,Nos trajeron la cuenta rápido y todo estaba correcto.,POS,positivo
+20,Un sitio acogedor con platos muy bien presentados.,POS,positivo
+21,La pizza tenía una masa crujiente y buenos ingredientes.,POS,positivo
+22,El personal fue amable con nuestra hija.,POS,positivo
+23,El desayuno estuvo excelente y el café tenía buen aroma.,POS,positivo
+24,La comida superó mis expectativas.,POS,positivo
+25,El tiempo de espera fue corto y valió la pena.,POS,positivo
+26,Los tacos estaban frescos y las salsas muy buenas.,POS,positivo
+27,La experiencia fue estupenda de principio a fin.,POS,positivo
+28,Me gustó mucho la presentación y el sabor de los platillos.,POS,positivo
+29,El gerente se acercó para confirmar que todo estuviera bien.,POS,positivo
+30,Volvería por el servicio y por el menú.,POS,positivo
+31,La comida llegó fría y sin sabor.,NEG,negativo
+32,Tardaron una hora en traer nuestro pedido.,NEG,negativo
+33,El mesero fue grosero y no resolvió nada.,NEG,negativo
+34,El baño estaba sucio y olía mal.,NEG,negativo
+35,La carne estaba dura y demasiado salada.,NEG,negativo
+36,Nos cobraron un platillo que nunca pedimos.,NEG,negativo
+37,El café estaba quemado y muy amargo.,NEG,negativo
+38,La mesa estaba pegajosa cuando llegamos.,NEG,negativo
+39,La porción era diminuta para el precio.,NEG,negativo
+40,Olvidaron varios productos de la orden.,NEG,negativo
+41,La música estaba tan fuerte que no podíamos conversar.,NEG,negativo
+42,El restaurante no respetó nuestra reservación.,NEG,negativo
+43,El pescado parecía viejo y tenía mal olor.,NEG,negativo
+44,Pedí una opción sin lácteos y aun así la incluyeron.,NEG,negativo
+45,El servicio fue lento incluso con el local vacío.,NEG,negativo
+46,La cuenta tenía errores y nadie quiso revisarla.,NEG,negativo
+47,El pedido para llevar llegó completamente derramado.,NEG,negativo
+48,El personal ignoró nuestras llamadas durante veinte minutos.,NEG,negativo
+49,La comida estaba insípida y mal presentada.,NEG,negativo
+50,No había varios platos que aparecían en el menú.,NEG,negativo
+51,"La experiencia fue decepcionante, no pienso regresar.",NEG,negativo
+52,Nos sentaron junto a la cocina y había mucho ruido.,NEG,negativo
+53,El postre estaba congelado por dentro.,NEG,negativo
+54,El precio final fue mucho mayor al anunciado.,NEG,negativo
+55,La mesa tardó demasiado en quedar limpia.,NEG,negativo
+56,La hamburguesa estaba cruda en el centro.,NEG,negativo
+57,El personal discutía delante de los clientes.,NEG,negativo
+58,Esperamos la cuenta durante media hora.,NEG,negativo
+59,La bebida llegó tibia y sin gas.,NEG,negativo
+60,No volvería; la atención y la comida fueron malas.,NEG,negativo
+61,El restaurante tiene mesas dentro y fuera.,NEU,neutral
+62,Pedí una sopa y un vaso de agua.,NEU,neutral
+63,La cuenta llegó en una carpeta negra.,NEU,neutral
+64,El menú incluye desayunos y comidas.,NEU,neutral
+65,Nos sentamos cerca de la ventana.,NEU,neutral
+66,El pedido fue de dos cafés y una ensalada.,NEU,neutral
+67,El local estaba a medio llenar cuando llegamos.,NEU,neutral
+68,La reservación era para las tres de la tarde.,NEU,neutral
+69,El plato incluye arroz y verduras.,NEU,neutral
+70,Pagué con tarjeta al terminar.,NEU,neutral
+71,La carta está disponible en español e inglés.,NEU,neutral
+72,El restaurante abre también los domingos.,NEU,neutral
+73,Pedimos la opción del menú ejecutivo.,NEU,neutral
+74,La mesa tenía cuatro sillas.,NEU,neutral
+75,El lugar se encuentra cerca de la plaza.,NEU,neutral
+76,El mesero nos entregó el menú al sentarnos.,NEU,neutral
+77,La bebida venía en un vaso alto.,NEU,neutral
+78,El pedido incluía tres tacos y una limonada.,NEU,neutral
+79,La comida se sirve desde el mediodía.,NEU,neutral
+80,El restaurante acepta reservaciones por teléfono.,NEU,neutral
+81,La factura se solicitó al final.,NEU,neutral
+82,"Había opciones de carne, pescado y verduras.",NEU,neutral
+83,La mesa estaba junto a la entrada.,NEU,neutral
+84,El platillo del día era pollo con arroz.,NEU,neutral
+85,Llegamos a las dos y salimos a las tres.,NEU,neutral
+86,El menú indica los ingredientes de cada plato.,NEU,neutral
+87,El establecimiento tiene dos pisos.,NEU,neutral
+88,La cuenta estaba dividida entre cuatro personas.,NEU,neutral
+89,El restaurante está en una calle peatonal.,NEU,neutral
+90,La carta incluye bebidas frías y calientes.,NEU,neutral

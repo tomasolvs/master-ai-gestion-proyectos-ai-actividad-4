@@ -1,0 +1,8 @@
+transformers>=4.44
+accelerate>=0.33
+evaluate>=0.4
+scikit-learn>=1.4
+pandas>=2.0
+matplotlib>=3.7
+huggingface_hub>=0.24
+torch
